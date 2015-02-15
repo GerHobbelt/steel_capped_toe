@@ -1,0 +1,23 @@
+{
+  "name": "steel_capped_toe",
+  "version": "0.1.0",
+  "description": "Assist the booting-up phase of large(ish) web pages with important chunks of JavaScript in external files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:GerHobbelt/steel_capped_toe.git"
+  },
+  "keywords": [
+    "booting",
+    "javascript"
+  ],
+  "author": "Ger Hobbelt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GerHobbelt/steel_capped_toe/issues"
+  },
+  "homepage": "https://github.com/GerHobbelt/steel_capped_toe"
+}
